@@ -4,6 +4,7 @@
   --main-color: #e85938;
 }
 
+
 * {
   font-family: "Poppins", sans-serif;
   margin: 0;
@@ -470,6 +471,7 @@ header .follow a:hover {
   /* height: 45%;
   width: 45%; */
   background-color: #eee;
+  
 }
 
 .portfolio .box-container .box h3 {
