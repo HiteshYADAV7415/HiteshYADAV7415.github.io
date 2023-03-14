@@ -36,8 +36,7 @@ body {
 }
 
 section {
-  padding: 1rem 5%;
-  min-height: 100vh;
+ margin-bottom: 50px;
 }
 
 .heading {
@@ -507,11 +506,13 @@ header .follow a:hover {
   color: #fff;
 }
 
+
 .contact .icons-container {
   display: flex;
   gap: 1.5rem;
   flex-wrap: wrap;
   padding-bottom: 2rem;
+  
 }
 
 .contact .icons-container .icons {
