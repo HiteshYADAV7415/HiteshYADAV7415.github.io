@@ -619,6 +619,11 @@ header .follow a:hover {
   text-align: center;
 }
 
+.image {
+  /* border: 1px solid blue; */
+  margin-top: 40px;
+}
+
 .github-images {
   /* border: 1px solid red; */
   display: flex;
