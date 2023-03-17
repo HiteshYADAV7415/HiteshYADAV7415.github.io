@@ -18,6 +18,22 @@
   line-height: 1.5;
 }
 
+#abt_rbtn{
+
+  /* border: 1px solid blue; */
+  border-radius: 25px;
+  width: 80px;
+  height: 40px;
+  background-color: #e85938;
+  
+  
+}
+#abt_rbtn a{
+
+  font-size: 18px;
+  color: white;
+  
+}
 
 
 #lowercase {
@@ -469,7 +485,7 @@ header .follow a:hover {
 .portfolio .box-container .box:hover {
   /* height: 45%;
   width: 45%; */
-  background-color: #eee;
+  /* background-color: #eee; */
   
 }
 
@@ -674,6 +690,8 @@ header .follow a:hover {
   .github-images img {
     width: 100%;
   }
+
+  
 }
 
 @media (max-width: 450px) {
