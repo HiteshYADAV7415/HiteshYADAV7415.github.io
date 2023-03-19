@@ -9,6 +9,15 @@ document.getElementById("abt_rbtn").addEventListener("click",()=>{
 document.getElementById("linkedinbtn").addEventListener("click",()=>{
     window.open('https://www.linkedin.com/in/hiteshwar-sahai-923840154/', '_blank');
 })
+document.getElementById("ebtn").addEventListener("click",()=>{
+    window.open('https://www.linkedin.com/in/hiteshwar-sahai-923840154/', '_blank');
+})
+document.getElementById("numberbtn").addEventListener("click",()=>{
+    window.open('https://www.linkedin.com/in/hiteshwar-sahai-923840154/', '_blank');
+})
+document.getElementById("addressbtn").addEventListener("click",()=>{
+    window.open('https://www.linkedin.com/in/hiteshwar-sahai-923840154/', '_blank');
+})
 
 document.getElementById("githubbtn").addEventListener("click",()=>{
     window.open('https://github.com/HiteshYADAV7415', '_blank');
