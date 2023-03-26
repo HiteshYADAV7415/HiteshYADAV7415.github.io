@@ -28,10 +28,10 @@ document.getElementById("fgbtn").addEventListener("click",()=>{
 document.getElementById("fdbtn").addEventListener("click",()=>{
     window.open('https://melodic-figolla-a9606b.netlify.app/', '_blank');
 })
-document.getElementById("mplgbtn").addEventListener("click",()=>{
+document.getElementById("mjgbtn").addEventListener("click",()=>{
     window.open('https://github.com/HiteshYADAV7415/Job-App', '_blank');
 })
-document.getElementById("mpldbtn").addEventListener("click",()=>{
+document.getElementById("mjdbtn").addEventListener("click",()=>{
     window.open('https://zippy-lamington-637c38.netlify.app/index.html', '_blank');
 })
 document.getElementById("merdbtn").addEventListener("click",()=>{

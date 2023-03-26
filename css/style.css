@@ -18,6 +18,63 @@
   line-height: 1.5;
 }
 
+#projectdowndiv{
+  background-color: rgba(230, 222, 222, 0.815);
+}
+#projectdowndiv:hover{
+
+  background-color:#e85938;
+}
+
+#projectdowndiv h3:hover{
+  color: white;
+}
+#projectdowndiv p:hover{
+  color: white;
+}
+#projectdowndiv ul:hover{
+ color: white;
+}
+#fgbtn{
+  cursor: pointer;
+  background-color: #ccc;
+}
+#fdbtn{
+  cursor: pointer;
+  background-color: #ccc;
+}
+#mjgbtn{
+
+  cursor: pointer;
+  background-color: #ccc;
+
+}
+#mjdbtn{
+
+  cursor: pointer;
+  background-color: #ccc;
+
+}
+#mergbtn{
+
+  cursor: pointer;
+  background-color: #ccc;
+
+}
+#merdbtn{
+
+  cursor: pointer;
+  background-color: #ccc;
+
+}
+#projectdiv{
+  font-size: 12px
+}
+
+
+
+
+
 
 #abt_rbtn{
 
