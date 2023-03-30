@@ -1,5 +1,5 @@
 document.getElementById("resume_button").addEventListener("click",()=>{
-    window.open('https://drive.google.com/file/d/1Jwl6ruCG9ckPPp5sIE0yBFV7UeFuAO55/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/15GHdFqHujFLqtAdFWygEjLpX6jBY3dKN/view?usp=sharing', '_blank');
 })
 
 document.getElementById("abt_rbtn").addEventListener("click",()=>{
