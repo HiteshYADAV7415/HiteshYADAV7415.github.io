@@ -1,9 +1,9 @@
 document.getElementById("resume_button").addEventListener("click",()=>{
-    window.open('https://drive.google.com/file/d/1EdzW_rgejTJgXyVPjVLg78V6SKNnLHQS/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/1gft2MILUH_X7PEuLpH3l6QkuEQnkhr6t/view?usp=sharing', '_blank');
 })
 
 document.getElementById("abt_rbtn").addEventListener("click",()=>{
-    window.open('https://drive.google.com/file/d/1EdzW_rgejTJgXyVPjVLg78V6SKNnLHQS/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/1gft2MILUH_X7PEuLpH3l6QkuEQnkhr6t/view?usp=sharing', '_blank');
 })
 
 document.getElementById("linkedinbtn").addEventListener("click",()=>{
